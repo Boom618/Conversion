@@ -13,7 +13,8 @@
 >在 `plugins` 中选择 `Install plugin from disk...` 选好下载的 `Conversion.jar` 文件重启 `IDEA` 即可
 
 ## NOTE
-> 默认快捷键
+### 默认快捷键
+> 可以在菜单栏 `Edit -> StringConversion` 中找到它
 > 
 MAC|Wind|
 ---|---|
