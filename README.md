@@ -5,6 +5,10 @@
 > 该插件采用 IDEA 编写、基于 Java 语言、适用于 Windows 和 Mac 平台
 > 
 
+### 效果图
+
+![快速转换特需字符](https://github.com/Boom618/Conversion/blob/master/image/image.gif)
+
 ## USE
 ### 1、Step
 > 下载 Conversion.jar 文件
