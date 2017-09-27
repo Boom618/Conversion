@@ -23,7 +23,7 @@ public class TransitionUtils {
 	private static final Pattern CJK_HASH = Pattern.compile("([\\p{InHiragana}\\p{InKatakana}\\p{InBopomofo}\\p{InCJKCompatibilityIdeographs}\\p{InCJKUnifiedIdeographs}])(#(\\S+))");
 	private static final Pattern HASH_CJK = Pattern.compile("((\\S+)#)([\\p{InHiragana}\\p{InKatakana}\\p{InBopomofo}\\p{InCJKCompatibilityIdeographs}\\p{InCJKUnifiedIdeographs}])");
 	private static final Pattern STYLE_FIRST = Pattern.compile("style=\"");
-	private static final Pattern STYLE_MIDDLE = Pattern.compile(": ");
+	private static final Pattern STYLE_MIDDLE = Pattern.compile(": \'?");
 	private static final Pattern STYLE_LAST = Pattern.compile(";\"");
 	private static final Pattern CLASS_NAME = Pattern.compile("class=");
 	private static final Pattern HTML_FOR = Pattern.compile("for=");
