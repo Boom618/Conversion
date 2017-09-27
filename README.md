@@ -13,7 +13,13 @@
 >在 `plugins` 中选择 `Install plugin from disk...` 选好下载的 `Conversion.jar` 文件重启 `IDEA` 即可
 
 ## NOTE
-目前支持: 
+> 默认快捷键
+> 
+MAC|Wind|
+---|---|
+Shift + command + P|Shift + Ctrl + P 
+
+目前支持转换字符: 
 
 - `class -> className`
 - `for -> htmlFor`
